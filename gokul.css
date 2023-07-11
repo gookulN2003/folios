@@ -1,0 +1,87 @@
+body{
+    height: 80%;
+   }
+
+  
+
+   nav ul li {
+       display: inline;
+       padding: 30px;
+   }
+   nav ul li a{
+       text-decoration: none;
+       color: aliceblue;
+       font-style:italic;
+       font-size: 35px;
+   }
+   
+   nav ul li  :hover{
+    background-color:pink;
+    color:black;
+}
+
+   h1{
+    color: white;
+       padding: 50px;
+       font-size: 50px;
+   }
+   header{
+       background-color: black;
+   }section{
+       text-align: center;
+       padding: 40px;
+   }
+   
+   .consm img{
+       padding-top: 100px;
+    display: flex;
+   
+   }
+   #ne{
+       width: 100%;
+       
+   }
+   .container{
+       font-family: 'Times New Roman', Times, serif;
+        background-color: rgb(126, 242, 91);
+       text-align: center;
+       font-size: 22px;
+       padding: 20px;
+       border-radius: 30px;
+       display: flexbox;
+   }
+   #bio{
+        padding: 0px 250px 0px 250px;
+   }
+   #Home #du img{
+       border: solid black 3px;
+   }
+   .consm p{
+       float: right;
+   }
+   .consm img{
+       float: left;
+       padding-top: 20px;
+   }
+   .consm p{
+       text-align: center;
+       background-color:#0adaa6 ;
+       padding-top: -30px;
+       width: 83%;
+      
+       height:202px;
+       font-family:cursive;
+       font-weight: bold;
+       font-size: 21px;
+   }
+   footer{
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-style: oblique;
+  margin-left: 50px;
+margin-right: 50px;
+        font-weight: bold;
+        width: 90%;
+        font-size: 20px;
+    background-image: linear-gradient(#bdc3c7,#2c3e50);
+   }
