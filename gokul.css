@@ -2,22 +2,35 @@ body{
     height: 80%;
    }
 
-  
+  #newww{
+    color:blue;
+    font-style:oblique;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #newww:hover{
+     font-size: large; 
+    color:black;
+ background-color:gray; 
+  }
 
    nav ul li {
        display: inline;
        padding: 30px;
    }
+   
    nav ul li a{
        text-decoration: none;
        color: aliceblue;
        font-style:italic;
+       padding: 30px;
        font-size: 35px;
    }
    
    nav ul li  :hover{
-    background-color:pink;
+    background-color:whitesmoke;
     color:black;
+    padding: 7px;
 }
 
    h1{
@@ -25,6 +38,13 @@ body{
        padding: 50px;
        font-size: 50px;
    }
+
+  h1 :hover{
+    
+    color: red;
+    
+   }
+
    header{
        background-color: black;
    }section{
@@ -50,14 +70,13 @@ body{
        border-radius: 30px;
        display: flexbox;
    }
- .container:hover{
+   .container:hover{
        font-family: 'Times New Roman', Times, serif;
-        background-color: #fd746c;
+        background-color: rgb(50, 59, 219);
        text-align: center;
-       font-size: 22px;
+       font-size: 29px;
        padding: 20px;
-      color:#ff9068;
-       border-radius: 30px;
+       border-radius: 35px;
        display: flexbox;
    }
    #bio{
@@ -84,8 +103,14 @@ body{
        font-weight: bold;
        font-size: 21px;
    }
-
-
+   .consm p:hover{
+    
+    background-color:black ;
+    font-family:cursive;
+    color: beige;
+    font-weight: bold;
+    font-size: 25px;
+}
    footer{
     margin-top: 20px;
     padding-bottom: 20px;
@@ -97,7 +122,10 @@ margin-right: 50px;
         font-size: 20px;
     background-image: linear-gradient(#bdc3c7,#2c3e50);
    }
- footer:hover{
+   i{
+    color: white;
+   }
+   footer:hover{
     margin-top: 20px;
     padding-bottom: 20px;
     font-style: oblique;
