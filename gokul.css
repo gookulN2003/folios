@@ -84,10 +84,7 @@ body{
        font-weight: bold;
        font-size: 21px;
    }
- .consm p:hover{
-       background-color: black ;
-       font-size: 23px;
-   }
+
 
    footer{
     margin-top: 20px;
