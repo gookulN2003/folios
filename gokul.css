@@ -50,6 +50,16 @@ body{
        border-radius: 30px;
        display: flexbox;
    }
+ .container:hover{
+       font-family: 'Times New Roman', Times, serif;
+        background-color: #fd746c;
+       text-align: center;
+       font-size: 22px;
+       padding: 20px;
+      color:#ff9068;
+       border-radius: 30px;
+       display: flexbox;
+   }
    #bio{
         padding: 0px 250px 0px 250px;
    }
@@ -74,6 +84,18 @@ body{
        font-weight: bold;
        font-size: 21px;
    }
+ .consm p:hover{
+       text-align: center;
+       background-color:#ef629f ;
+       padding-top: -30px;
+       width: 83%;
+      color:#eecda3;
+       height:202px;
+       font-family:cursive;
+       font-weight: bold;
+       font-size: 29px;
+   }
+
    footer{
     margin-top: 20px;
     padding-bottom: 20px;
@@ -84,4 +106,15 @@ margin-right: 50px;
         width: 90%;
         font-size: 20px;
     background-image: linear-gradient(#bdc3c7,#2c3e50);
+   }
+ footer:hover{
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-style: oblique;
+  margin-left: 50px;
+margin-right: 50px;
+        font-weight: bold;
+        width: 90%;
+        font-size: 25px;
+    background-image:#eacda3;
    }
