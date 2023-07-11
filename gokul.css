@@ -86,14 +86,14 @@ body{
    }
  .consm p:hover{
        text-align: center;
-       background-color:#ef629f ;
+       background-color: black ;
        padding-top: -30px;
        width: 83%;
-      color:#eecda3;
+      color:white;
        height:202px;
        font-family:cursive;
        font-weight: bold;
-       font-size: 29px;
+       font-size: 23px;
    }
 
    footer{
