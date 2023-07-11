@@ -85,14 +85,7 @@ body{
        font-size: 21px;
    }
  .consm p:hover{
-       text-align: center;
        background-color: black ;
-       padding-top: -30px;
-       width: 83%;
-      color:white;
-       height:202px;
-       font-family:cursive;
-       font-weight: bold;
        font-size: 23px;
    }
 
